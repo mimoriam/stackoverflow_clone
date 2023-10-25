@@ -2,3 +2,5 @@ npm i eslint-config-standard eslint-plugin-tailwindcss prettier eslint-config-pr
 {
   "extends": ["next/core-web-vitals", "standard", "plugin:tailwindcss/recommended", "prettier"]
 }
+
+npm i @tailwindcss/typography tailwindcss-animate
