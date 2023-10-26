@@ -6,3 +6,4 @@ npm i eslint-config-standard eslint-plugin-tailwindcss prettier eslint-config-pr
 npm i @tailwindcss/typography tailwindcss-animate
 
 npm i @clerk/nextjs
+npx shadcn-ui@latest init
